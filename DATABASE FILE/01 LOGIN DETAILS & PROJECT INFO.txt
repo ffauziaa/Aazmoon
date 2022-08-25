@@ -1,0 +1,17 @@
+**Database Name: oesm**
+
+**Developed by TechGirls**
+
+**Recommended PHP Version 5.6.3 and 7.4.12**
+
+
+**Student Login Details**
+
+Email   : shakilasulmas@gmail.com 
+Password: 12345
+
+
+**Admin Login Details**
+
+Email    : shakila12@gmail.com
+Password : 123456

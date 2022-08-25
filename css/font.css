@@ -1,0 +1,39 @@
+@font-face {
+  font-family: 'CaviarDreams';
+    src: url('fonts/CaviarDreams.eot'); /* IE9 Compat Modes */
+    src: url('fonts/CaviarDreams.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/CaviarDreams.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/CaviarDreams.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/CaviarDreams.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/CaviarDreams.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 700;
+    font-style: normal;
+    font-display: swap;
+}
+
+
+@font-face {
+  font-family: 'Gilroy';
+    src: url('fonts/Gilroy.eot'); /* IE9 Compat Modes */
+    src: url('fonts/Gilroy.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/Gilroy.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/Gilroy.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/Gilroy.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/Gilroy.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+  font-family: 'CaviarDreams';
+    src: url('fonts/CaviarDreams-BoldItalic.eot'); /* IE9 Compat Modes */
+    src: url('fonts/CaviarDreams-BoldItalic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+        url('fonts/CaviarDreams-BoldItalic.woff2') format('woff2'), /* Super Modern Browsers */
+        url('fonts/CaviarDreams-BoldItalic.woff') format('woff'), /* Pretty Modern Browsers */
+        url('fonts/CaviarDreams-BoldItalic.ttf')  format('truetype'), /* Safari, Android, iOS */
+        url('fonts/CaviarDreams-BoldItalic.svg#svgFontName') format('svg'); /* Legacy iOS */
+    font-weight: 700;
+    font-style: italic;
+}
+
+
